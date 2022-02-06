@@ -1,9 +1,11 @@
-Hello, I am coolbird (kurkii)
+```
+Hello, I am coolbird
 
-- Knows C
-- Learning Java and ncurses
+- I know C
+- I am learning Java and ncurses
 
-Contact me at coolbird@libremc.org
+Contact me at my email: coolbird@libremc.org
+or my Discord: coolbird#4061
 
 
 
